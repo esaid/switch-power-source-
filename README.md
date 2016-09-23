@@ -1,4 +1,4 @@
-# -----------------------------------------------------------------------------------
+# ------------------------------------------------------------------
 switch-power-source
 # simulation LTspice  http://www.linear.com/designtools/software/#LTspice
 # le montage permet de switcher automatiquement une tension entre 2 sources de tensions
